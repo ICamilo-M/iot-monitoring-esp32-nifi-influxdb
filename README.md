@@ -103,7 +103,7 @@ iot-monitoring-esp32-nifi-influxdb/
 │   └── dashboard.json
 │
 ├── docs/
-│   └── Tarea3_Ivan_camilo_Martinez_pinto.pdf
+│   └── IoT_Monitoring_Report.pdf
 │
 └── images/
 ```
