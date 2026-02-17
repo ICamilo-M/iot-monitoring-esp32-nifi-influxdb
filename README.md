@@ -107,6 +107,17 @@ iot-monitoring-esp32-nifi-influxdb/
 │
 └── images/
 ```
+## Resultados (Screenshots)
+
+### Grafana Dashboard
+![Grafana Dashboard](images/grafana_dashboard.png)
+
+### Flujo en Apache NiFi
+![NiFi Flow](images/nifi_flow.png)
+
+### Datos almacenados en InfluxDB
+![InfluxDB](images/influxdb_bucket.png)
+
 
 ---
 
