@@ -116,13 +116,13 @@ iot-monitoring-esp32-nifi-influxdb/
 
 
 ### Flujo en Apache NiFi
-<img width="736" height="379" alt="flujo en Apache NiFi" src="https://github.com/user-attachments/assets/a768ffff-35f2-4e8b-a3d8-9a7d2be51655" />
+<img width="800" alt="flujo en Apache NiFi" src="https://github.com/user-attachments/assets/a768ffff-35f2-4e8b-a3d8-9a7d2be51655" />
 
 
 
 
 ### Datos almacenados en InfluxDB
-<img width="419" height="560" alt="InfluxDB" src="https://github.com/user-attachments/assets/dba188a9-5e4a-42cc-9c77-33e48d8a3218" />
+<img width="800" alt="InfluxDB" src="https://github.com/user-attachments/assets/dba188a9-5e4a-42cc-9c77-33e48d8a3218" />
 
 
 
