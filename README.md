@@ -110,9 +110,8 @@ iot-monitoring-esp32-nifi-influxdb/
 ## Resultados (Screenshots)
 
 ### Grafana Dashboard
-
-    <img width="800" alt="Grafana Dashboard1" src="https://github.com/user-attachments/assets/67f53ed2-3c71-452e-8727-1d0387167f71" />
-    <img width="800" alt="Grafana Dashboard2" src="https://github.com/user-attachments/assets/1fe1e536-c40d-4f1f-8062-2c14203b71ef" />
+<img width="800" alt="Grafana Dashboard1" src="https://github.com/user-attachments/assets/67f53ed2-3c71-452e-8727-1d0387167f71" />
+<img width="800" alt="Grafana Dashboard2" src="https://github.com/user-attachments/assets/1fe1e536-c40d-4f1f-8062-2c14203b71ef" />
 
 
 
